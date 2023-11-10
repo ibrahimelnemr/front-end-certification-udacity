@@ -1,6 +1,6 @@
 ## Overview
 
-This repository consists of three projects completed for the sUdacity front-end web development certification.
+This repository consists of three projects completed for the Udacity front-end web development certification.
 
 ## Project 1: Blog
 
